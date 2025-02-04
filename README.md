@@ -159,11 +159,5 @@ Contributions and pull requests are welcome! For significant changes, please ope
 
 ---
 
-## License
-
-*(Include your chosen license here, such as MIT, Apache 2.0, etc.)*
-
----
-
 Enjoy building and exploring your **Agentic RAG Research Assistant**!
 
