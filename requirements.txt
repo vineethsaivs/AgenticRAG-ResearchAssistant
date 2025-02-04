@@ -1,0 +1,9 @@
+langchain
+chromadb
+openai
+tiktoken
+langchain-openai
+langchain-community
+langgraph
+beautifulsoup4
+PyPDF2
